@@ -1,0 +1,6 @@
+autoconf
+build-essential
+checkinstall
+curl
+git
+python3-pip
